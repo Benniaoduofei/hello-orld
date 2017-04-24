@@ -1,2 +1,2 @@
-# hello-orld
+# hello-world
 My first repositiory
